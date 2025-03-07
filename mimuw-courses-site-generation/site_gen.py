@@ -4,7 +4,7 @@ import scraper
 def get_site_link(code):
     return "https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=" + code
 
-site = open('index.markdown', 'w')
+site = open('../index.markdown', 'w')
 
 site.write('---\n')
 site.write('layout: home\n')
@@ -30,7 +30,7 @@ for course in courses:
     site.write('\n')
 
     # Generate course-specific page
-    sub_site = open(course['course_code'] + '.markdown', 'w')
+    sub_site = open('../' + course['course_code'] + '.markdown', 'w')
     sub_site.write('---\n')
     sub_site.write('layout: default\n')
     sub_site.write('permalink: /mimuw-courses-site/' + course['course_code'] + '/\n')
