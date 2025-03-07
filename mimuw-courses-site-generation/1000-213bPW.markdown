@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-213bPW/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-213bPW) 
+
+### Polecane książki:
+- [Zacznij programowanie w Go - Księgarnia PWN](https://ksiegarnia.pwn.pl/Zacznij-programowanie-w-Go,893291269,p.html)
+- [Zacznij programowanie w Go - Księgarnia PWN](https://ksiegarnia.pwn.pl/Zacznij-programowanie-w-Go,895471798,p.html)
+- [Python - książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Python,778067973,k.html)
+- [Księgarnia PWN](https://ksiegarnia.pwn.pl/funkcyjne-jezyki-programowania)
+- [JAVA. Uniwersalne techniki programowania. Rozdział 11-12](https://ksiegarnia.pwn.pl/JAVA.-Uniwersalne-techniki-programowania.-Rozdzial-11-12,627746945,p.html)

@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-211bGAL/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-211bGAL) 
+
+### Polecane książki:
+- [Wykłady i ćwiczenia z algebry - (eBook) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wyklady-i-cwiczenia-z-algebry,1041498612,p.html)
+- [Algebra liniowa i geometria - Księgarnia PWN](https://ksiegarnia.pwn.pl/Algebra-liniowa-i-geometria,1031791605,p.html)
+- [Wykłady i ćwiczenia z algebry - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wyklady-i-cwiczenia-z-algebry,1035123361,p.html)
+- [Ćwiczenia z podstaw matematyki wyższej. Algebra liniowa. Geometria ...](https://ksiegarnia.pwn.pl/Cwiczenia-z-podstaw-matematyki-wyzszej.-Algebra-liniowa.-Geometria-analityczna.-Optymalizacja-liniowa,913050796,p.html)
+- [Matematyka - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Matematyka,1026375699,k.html)

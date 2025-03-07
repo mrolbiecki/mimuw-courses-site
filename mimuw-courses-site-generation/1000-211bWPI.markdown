@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-211bWPI/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-211bWPI) 
+
+### Polecane książki:
+- [React. Wstęp do programowania - Księgarnia PWN](https://ksiegarnia.pwn.pl/React.-Wstep-do-programowania,915089780,p.html)
+- [Wstęp do programowania sterowników PLC - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wstep-do-programowania-sterownikow-PLC,68574823,p.html)
+- [Wstęp do programowania w języku C# - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wstep-do-programowania-w-jezyku-C,68710524,p.html)
+- [Wydawnictwo Wydawnictwa Komunikacji i Łączności WKŁ](https://ksiegarnia.pwn.pl/wydawca/Wydawnictwa-Komunikacji-i-Lacznosci-WKL,w,69238794)
+- [Programowanie w języku R - Marek Gągolewski (Książka ... - Księgarnia PWN](https://ksiegarnia.pwn.pl/Programowanie-w-jezyku-R,647767533,p.html)

@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-213bBD/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-213bBD) 
+
+### Polecane książki:
+- [Bazy danych - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Bazy-danych,2195909,k.html)
+- [Bazy danych - Mirosława Kopertowska (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Bazy-danych,68421345,p.html)
+- [MySQL Jak zaprojektować i wdrożyć wydajną bazę danych.](https://ksiegarnia.pwn.pl/MySQL-Jak-zaprojektowac-i-wdrozyc-wydajna-baze-danych.,974322031,p.html)
+- [Książki informatyczne - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Informatyka-Komputery,2195903,k.html)
+- [The Manga Guide. Bazy danych - Księgarnia PWN](https://ksiegarnia.pwn.pl/The-Manga-Guide.-Bazy-danych,732955878,p.html)

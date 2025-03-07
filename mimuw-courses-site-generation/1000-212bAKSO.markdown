@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-212bAKSO/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-212bAKSO) 
+
+### Polecane książki:
+- [Organizacja i architektura systemu komputerowego Tom 1](https://ksiegarnia.pwn.pl/Organizacja-i-architektura-systemu-komputerowego-Tom-1,966521150,p.html)
+- [Organizacja i architektura systemu komputerowego. Tom 1-2](https://ksiegarnia.pwn.pl/Organizacja-i-architektura-systemu-komputerowego.-Tom-1-2,1009219361,p.html)
+- [Organizacja i architektura systemu komputerowego Tom 1](https://ksiegarnia.pwn.pl/Organizacja-i-architektura-systemu-komputerowego-Tom-1,985506001,p.html)
+- [Architektura komputerów - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Architektura-komputerow,2195918,k.html)
+- [Książki informatyczne - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Informatyka-Komputery,2195903,k.html)

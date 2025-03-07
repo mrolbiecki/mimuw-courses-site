@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-212cAM2/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-212cAM2) 
+
+### Polecane książki:
+- [Matematyka Część 2 Analiza matematyczna - Księgarnia PWN](https://ksiegarnia.pwn.pl/Matematyka-Czesc-2-Analiza-matematyczna,726676364,p.html)
+- [Analiza Część II Ogólne struktury matematyki funkcje algebraiczne ...](https://ksiegarnia.pwn.pl/Analiza-Czesc-II-Ogolne-struktury-matematyki-funkcje-algebraiczne-calkowanie-analiza-tensorowa,788712245,p.html)
+- [Analiza matematyczna - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Analiza-matematyczna,1026375700,k.html)
+- [Analiza, cz. 2 - Krzysztof Maurin (eBook) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Analiza-cz.-2,906717454,p.html)
+- [Matematyka - podręczniki akademickie - Księgarnia PWN](https://ksiegarnia.pwn.pl/podreczniki-akademickie-matematyka)

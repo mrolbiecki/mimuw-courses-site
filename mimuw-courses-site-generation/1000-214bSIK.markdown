@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-214bSIK/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-214bSIK) 
+
+### Polecane książki:
+- [Sieci komputerowe. Laboratorium - Księgarnia PWN](https://ksiegarnia.pwn.pl/Sieci-komputerowe.-Laboratorium,1046855327,p.html)
+- [Sieci komputerowe, Cisco Press - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Sieci-komputerowe-Cisco-Press,2195916,k.html)
+- [Sieci komputerowe i intersieci - Comer Douglas E. (Książka ...](https://ksiegarnia.pwn.pl/Sieci-komputerowe-i-intersieci,68715245,p.html)
+- [Sieci komputerowe Kwalifikacja INF.02 Podręcznik Część 3](https://ksiegarnia.pwn.pl/Sieci-komputerowe-Kwalifikacja-INF.02-Podrecznik-Czesc-3,968350943,p.html)
+- [Książki informatyczne - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Informatyka-Komputery,2195903,k.html)

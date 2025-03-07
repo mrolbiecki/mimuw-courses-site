@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-214bIO/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-214bIO) 
+
+### Polecane książki:
+- [Inżynieria oprogramowania - Ian Sommerville (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Inzynieria-oprogramowania,850331658,p.html)
+- [Inżynieria oprogramowania - Krzysztof Sacha (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Inzynieria-oprogramowania,68447119,p.html)
+- [Inżynieria oprogramowania - Ian Sommerville (eBook) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Inzynieria-oprogramowania,853675099,p.html)
+- [Informatyka - Księgarnia PWN](https://ksiegarnia.pwn.pl/podreczniki-pwn-informatyka)
+- [Inżynieria oprogramowania - Krzysztof Sacha (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Inzynieria-oprogramowania,68439405,p.html)

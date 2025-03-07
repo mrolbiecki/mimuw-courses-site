@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-214bWWW/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-214bWWW) 
+
+### Polecane książki:
+- [Java EE 6 Programowanie aplikacji WWW - Księgarnia PWN](https://ksiegarnia.pwn.pl/Java-EE-6-Programowanie-aplikacji-WWW,68607150,p.html)
+- [Programowanie w ASP.NET Core - Księgarnia PWN](https://ksiegarnia.pwn.pl/Programowanie-w-ASP.NET-Core,775403758,p.html)
+- [Tworzenie stron i aplikacji internetowych oraz baz danych i ...](https://ksiegarnia.pwn.pl/Tworzenie-stron-i-aplikacji-internetowych-oraz-baz-danych-i-administrowanie-nimi.-Kwalifikacja-INF.03.-Czesc-1,1064958148,p.html)
+- [C# 12 i .NET 8 dla programistów aplikacji wieloplatformowych](https://ksiegarnia.pwn.pl/C-12-i-.NET-8-dla-programistow-aplikacji-wieloplatformowych,1088966685,p.html)
+- [Java Projektowanie aplikacji WWW - Księgarnia PWN](https://ksiegarnia.pwn.pl/Java-Projektowanie-aplikacji-WWW,84905461,p.html)

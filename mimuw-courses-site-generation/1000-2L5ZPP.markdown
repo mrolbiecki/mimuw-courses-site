@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-2L5ZPP/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-2L5ZPP) 
+
+### Polecane książki:
+- [Kierowanie zespołem projektowym - Księgarnia PWN](https://ksiegarnia.pwn.pl/Kierowanie-zespolem-projektowym,84870412,p.html)
+- [Zarządzanie projektami - Marek Pawlak (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Zarzadzanie-projektami,68605183,p.html)
+- [Organizacja projektowa - Michał Trocki (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Organizacja-projektowa,68483522,p.html)
+- [Agile Programowanie zwinne zasady wzorce i praktyki zwinnego ...](https://ksiegarnia.pwn.pl/Agile-Programowanie-zwinne-zasady-wzorce-i-praktyki-zwinnego-wytwarzania-oprogramowania-w-C-prz,775957632,p.html)
+- [Zarządzanie projektami - Jerzy Kisielnicki (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Zarzadzanie-projektami,734187943,p.html)

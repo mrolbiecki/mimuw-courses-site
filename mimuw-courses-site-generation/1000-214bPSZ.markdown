@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-214bPSZ/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-214bPSZ) 
+
+### Polecane książki:
+- [Marek Cieciura - Księgarnia PWN](https://ksiegarnia.pwn.pl/autor/Marek-Cieciura,a,74100667)
+- [Współczesne kierunki i problemy polityki społecznej. Wybrane ...](https://ksiegarnia.pwn.pl/Wspolczesne-kierunki-i-problemy-polityki-spolecznej.-Wybrane-zagadnienia,851609714,p.html)
+- [Narzędzia informatyki - Adam Muc (eBook) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Narzedzia-informatyki,932216952,p.html)
+- [Superwizja. Jak chronić się przed wypaleniem ... - Księgarnia PWN](https://ksiegarnia.pwn.pl/Superwizja.-Jak-chronic-sie-przed-wypaleniem-zawodowym-i-utrata-zdrowia,858018858,p.html)
+- [WYBRANE PROBLEMY SPOŁECZNE Teraźniejszość - Przyszłość](https://ksiegarnia.pwn.pl/WYBRANE-PROBLEMY-SPOLECZNE-Terazniejszosc-Przyszlosc,792366109,p.html)

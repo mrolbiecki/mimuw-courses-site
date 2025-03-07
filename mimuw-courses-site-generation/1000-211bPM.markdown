@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-211bPM/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-211bPM) 
+
+### Polecane książki:
+- [Matematyka - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Matematyka,1026375699,k.html)
+- [Matematyka. Od podstaw do elementów matematyki wyższej](https://ksiegarnia.pwn.pl/Matematyka.-Od-podstaw-do-elementow-matematyki-wyzszej,234193090,p.html)
+- [Matematyka - Księgarnia PWN](https://ksiegarnia.pwn.pl/matematyka)
+- [Matematyka - podręczniki akademickie - Księgarnia PWN](https://ksiegarnia.pwn.pl/podreczniki-akademickie-matematyka)
+- [Matematyka - publikacje akademickie - Księgarnia PWN](https://ksiegarnia.pwn.pl/promocja-akademicka-matematyka)

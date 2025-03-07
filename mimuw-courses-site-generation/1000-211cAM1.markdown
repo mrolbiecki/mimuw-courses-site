@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-211cAM1/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-211cAM1) 
+
+### Polecane książki:
+- [Analiza matematyczna - Księgarnia PWN](https://ksiegarnia.pwn.pl/seria/Analiza-matematyczna,s,910036993)
+- [Analiza matematyczna w zadaniach 1 - Księgarnia PWN](https://ksiegarnia.pwn.pl/Analiza-matematyczna-w-zadaniach-1,68708274,p.html)
+- [Analiza matematyczna - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Analiza-matematyczna,1026375700,k.html)
+- [Zadania z analizy matematycznej 1 Liczby rzeczywiste, ciągi i szeregi ...](https://ksiegarnia.pwn.pl/Zadania-z-analizy-matematycznej-1-Liczby-rzeczywiste-ciagi-i-szeregi-liczbowe,68738247,p.html)
+- [Rozwiązujemy zadania z analizy matematycznej Część 1](https://ksiegarnia.pwn.pl/Rozwiazujemy-zadania-z-analizy-matematycznej-Czesc-1,68608053,p.html)

@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-213bCPP/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-213bCPP) 
+
+### Polecane książki:
+- [Python - Księgarnia PWN](https://ksiegarnia.pwn.pl/seria/Python,s,913737730)
+- [Python - książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Python,778067973,k.html)
+- [C++ Intensywny kurs - Josh Lospinoso (Książka) - Księgarnia PWN](https://ksiegarnia.pwn.pl/C-Intensywny-kurs,884207679,p.html)
+- [C++. Intensywny kurs - Josh Lospinoso (eBook) - Księgarnia PWN](https://ksiegarnia.pwn.pl/C-.-Intensywny-kurs,891458680,p.html)
+- [Python Nauka programowania dla każdego - Księgarnia PWN](https://ksiegarnia.pwn.pl/Python-Nauka-programowania-dla-kazdego,970025349,p.html)

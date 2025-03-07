@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-213bRP/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-213bRP) 
+
+### Polecane książki:
+- [Statystyka, rachunek prawdopodobieństwa - Książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/Ksiazki/Statystyka-rachunek-prawdopodobienstwa,1026375704,k.html)
+- [Rachunek prawdopodobieństwa i statystyka matematyczna w zadaniach część 1](https://ksiegarnia.pwn.pl/Rachunek-prawdopodobienstwa-i-statystyka-matematyczna-w-zadaniach-czesc-1,68738725,p.html)
+- [Wstęp do rachunku prawdopodobieństwa część 1 - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wstep-do-rachunku-prawdopodobienstwa-czesc-1,68711830,p.html)
+- [W. Krysicki - Księgarnia PWN](https://ksiegarnia.pwn.pl/autor/W.-Krysicki,a,74088501)
+- [Wstęp do rachunku prawdopodobieństwa część 2 - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wstep-do-rachunku-prawdopodobienstwa-czesc-2,68705312,p.html)

@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-212bMD/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-212bMD) 
+
+### Polecane książki:
+- [Matematyka dyskretna. Niezbędnik dla informatyków](https://ksiegarnia.pwn.pl/Matematyka-dyskretna.-Niezbednik-dla-informatykow,906476581,p.html)
+- [Matematyka dyskretna - Ross Kenneth A., Wright Charles R. B. (Książka ...](https://ksiegarnia.pwn.pl/Matematyka-dyskretna,68696753,p.html)
+- [Matematyka dyskretna - Harry Lewis, Rachel Zax (eBook) - Księgarnia PWN](https://ksiegarnia.pwn.pl/Matematyka-dyskretna,910910637,p.html)
+- [Matematyka dyskretna w zadaniach - Księgarnia PWN](https://ksiegarnia.pwn.pl/Matematyka-dyskretna-w-zadaniach,1081276575,p.html)
+- [Jak to rozwiązać? Matematyka dyskretna. Część I](https://ksiegarnia.pwn.pl/Jak-to-rozwiazac-Matematyka-dyskretna.-Czesc-I,912578764,p.html)

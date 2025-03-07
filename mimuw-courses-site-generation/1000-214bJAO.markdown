@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-214bJAO/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-214bJAO) 
+
+### Polecane książki:
+- [Wprowadzenie do teorii obliczeń - Michael Sipser (eBook ...](https://ksiegarnia.pwn.pl/Wprowadzenie-do-teorii-obliczen,829389034,p.html)
+- [Wprowadzenie do teorii obliczeń - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wprowadzenie-do-teorii-obliczen,817372166,p.html)
+- [Informatyka - Księgarnia PWN](https://ksiegarnia.pwn.pl/podreczniki-pwn-informatyka)
+- [Programowanie w języku R - Marek Gągolewski (Książka ... - Księgarnia PWN](https://ksiegarnia.pwn.pl/Programowanie-w-jezyku-R,647767533,p.html)
+- [PWN IT: książki - Księgarnia PWN](https://ksiegarnia.pwn.pl/pwn-it-ksiazki)

@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-214bWUM/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-214bWUM) 
+
+### Polecane książki:
+- [Wprowadzenie do uczenia maszynowego według Esposito](https://ksiegarnia.pwn.pl/Wprowadzenie-do-uczenia-maszynowego-wedlug-Esposito,823471940,p.html)
+- [Praktyczne uczenie maszynowe - Marcin Szeliga (eBook ... - Księgarnia PWN](https://ksiegarnia.pwn.pl/Praktyczne-uczenie-maszynowe,805331504,p.html)
+- [Praktyczne uczenie maszynowe - Księgarnia PWN](https://ksiegarnia.pwn.pl/Praktyczne-uczenie-maszynowe,802518135,p.html)
+- [Wzorce projektowe uczenia maszynowego - Księgarnia PWN](https://ksiegarnia.pwn.pl/Wzorce-projektowe-uczenia-maszynowego,905344203,p.html)
+- [Głębokie uczenie Wprowadzenie - Marek Śmieja ... - Księgarnia PWN](https://ksiegarnia.pwn.pl/Glebokie-uczenie-Wprowadzenie,967155139,p.html)

@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /mimuw-courses-site/1000-212cPO/
+---
+Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-212cPO) 
+
+### Polecane książki:
+- [Programowanie obiektowe dla studenta i technika programisty INF.04](https://ksiegarnia.pwn.pl/Programowanie-obiektowe-dla-studenta-i-technika-programisty-INF.04,1033788134,p.html)
+- [Programowanie strukturalne i obiektowe Tom 2 Programowanie obiektowe i ...](https://ksiegarnia.pwn.pl/Programowanie-strukturalne-i-obiektowe-Tom-2-Programowanie-obiektowe-i-programowanie-pod-Windows,68454772,p.html)
+- [Programowanie strukturalne i obiektowe Tom 1 - Księgarnia PWN](https://ksiegarnia.pwn.pl/Programowanie-strukturalne-i-obiektowe-Tom-1,68453984,p.html)
+- [Programowanie strukturalne i obiektowe. T. 1 - Księgarnia PWN](https://ksiegarnia.pwn.pl/Programowanie-strukturalne-i-obiektowe.-T.-1,830905414,p.html)
+- [Krzysztof Wojtuszkiewicz - Księgarnia PWN](https://ksiegarnia.pwn.pl/autor/Krzysztof-Wojtuszkiewicz,a,74645970)
