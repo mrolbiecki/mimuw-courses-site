@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /mimuw-courses-site/1000-OOPOWI/
+permalink: /1000-OOPOWI/
 ---
 Więcej informacji na temat przedmiotu: [strona kursu](https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-OOPOWI) 
 

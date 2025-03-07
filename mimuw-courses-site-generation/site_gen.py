@@ -33,7 +33,7 @@ for course in courses:
     sub_site = open('../' + course['course_code'] + '.md', 'w')
     sub_site.write('---\n')
     sub_site.write('layout: default\n')
-    sub_site.write('permalink: /mimuw-courses-site/' + course['course_code'] + '/\n')
+    sub_site.write('permalink: /' + course['course_code'] + '/\n')
     sub_site.write('---\n')
     sub_site.write('Więcej informacji na temat przedmiotu: [strona kursu](' + get_site_link(course['course_code']) + ') \n\n')
 
